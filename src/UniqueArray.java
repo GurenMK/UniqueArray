@@ -1,5 +1,5 @@
 
-public class Assignment_2 {
+public class UniqueArray {
 
    public static double mean(int[] array) { //mean method    
       double total = 0;
